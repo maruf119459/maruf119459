@@ -22,6 +22,7 @@
 <a href="https://codeforces.com/profile/maruf119459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="maruf119459" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/maruf119459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maruf119459" height="30" width="40" /></a>
 <a href="https://www.beecrowd.com.br/judge/en/profile/722358" target="blank"><img align="center" src="https://github.com/maruf119459/maruf119459/blob/main/1.png?raw=true.svg" alt="maruf119459" height="30" width="40" /></a>
+<a href="https://www.guvi.in/mdmohiuddinmaruf793" target="blank"><img align="center" src="https://github.com/maruf119459/maruf119459/blob/main/foot-guvi-logo.a4e6ed37ef51b4ab25d3123efba35271.png?raw=true.svg" alt="Md Mohiuddin Maruf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
